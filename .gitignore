@@ -1,0 +1,23 @@
+# Environnement virtuel Python local
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dépendances et build Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Caches locaux isolés
+.cache/
+
+# Base de données SQLite locale & journaux
+data/*.db
+data/*.db-journal
+data/*.db-wal
+*.log
+
+# Fichiers système / IDE
+.DS_Store
+Thumbs.db
+.env

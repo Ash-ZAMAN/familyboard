@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/avatarcropper.tsx","./src/components/goalsview.tsx","./src/components/homeboard.tsx","./src/components/pinmodal.tsx","./src/components/recipesview.tsx","./src/components/settingsmodal.tsx","./src/components/weathericon.tsx","./src/hooks/usewakelock.ts"],"version":"5.6.3"}
